@@ -2,7 +2,7 @@
 
 En solidaridad con las protestas en Minneapolis y otras ciudades americanas, varias tecnólogas, protestantes y activistas Libanesas han creado este documento como guía para intensificar las protestas y documentar el abuso policial. Reconocemos que nuestras experiencias y realidades vividas son diferentes, pero del mismo modo que hemos encontrado solidaridad con lxs protestantes de Hong Kong y Chile, queremos extender la nuestra a otrxs.
 
-Protestar de manera segura, gas lacrimógeno, y otros trucos ✊🏾
+## Protestar de manera segura, gas lacrimógeno, y otros trucos ✊🏾
 
 Las protestas pueden ser una experiencia sobrecogedora cuando estás sola, así que asegurate - dentro de lo posible - de ir con un amigo o con un grupo pequeño. Cuando estamos unidas, estamos protegidas.
 
